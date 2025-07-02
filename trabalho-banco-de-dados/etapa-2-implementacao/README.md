@@ -1,2 +1,4 @@
-trabalho-banco-de-dados/etapa-2-implementacao/README.md
+# Etapa 2 – Implementação
+
+Script SQL para criar as tabelas do banco da Locadora de Veículos.
 
