@@ -1,4 +1,4 @@
-bd/hotel/locadora
+bd/hotel/locadora/readme.md
 
 Este repositório contém o trabalho de Banco de Dados dividido em duas etapas principais:
 
