@@ -1,3 +1,8 @@
+# Etapa 2 – Implementação
+
+Este diretório contém o script SQL para criação das tabelas do banco de dados da Locadora de Veículos, conforme as regras do trabalho.
+
+
 #Criação do banco de dados:
 create database locadoraveiculos;
 
